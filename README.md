@@ -1,3 +1,7 @@
+# installation
+linux *git clone https://github.com/williamaerus/python-weather*
+
+windows unzip the file and run from terminal
 # configuration
 to make this script work you have to connect to this website and start a free account https://openweathermap.org/api then go to *my API keys"* and copy it
 
