@@ -4,6 +4,8 @@ to make this script work you have to connect to this website and start a free ac
 then edit the code and change the variable API_KEY = "" at line 4 with API_KEY = "your API"
 
 ps: you may not have installed the requests repository the command to download it is *pip install requests*
+pps: probably not even the json repository the command for this one is *pip install json*
+
 # how to use it
 
 start the code from the terminal with 
